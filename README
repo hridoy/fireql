@@ -1,0 +1,12 @@
+
+Add your firestore configuration to root of the project
+
+Run the Server:
+
+# Install the packages
+
+npm i
+
+# Run the dev Server
+
+npm run dev
